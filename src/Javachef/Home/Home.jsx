@@ -1,6 +1,7 @@
 import {Link} from "react-router-dom";
 import "./home.css";
 import Home1 from "./Home1";
+import Home2 from "./home2";
 
 
 function Home(){
@@ -15,6 +16,7 @@ function Home(){
             </div>
         </section>
         <Home1/>
+        <Home2/>
         </>
     )
 }

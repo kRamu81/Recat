@@ -1,4 +1,9 @@
 /*Contact page*/
+body{
+  width: 100%;
+  
+
+}
 .contact-section {
   padding: 80px 20px;
   background-color: #ffffff;
