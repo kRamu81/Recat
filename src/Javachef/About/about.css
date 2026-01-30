@@ -1,0 +1,33 @@
+/*About us page*/
+.about-section{
+    padding: 80px 20px;
+    background-color: #e7e4e0;
+}
+
+.about-container{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.about-image img{
+    width: 100%;
+    max-width: 450px;
+    border-radius: 12px;
+    box-shadow: #222 0px 4px 8px;
+}
+
+.about-content h2{
+    font-size: 40px;
+    margin-bottom: 12px;
+ 
+}
+
+.about-content p{
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+

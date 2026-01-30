@@ -1,0 +1,65 @@
+nav{
+    background-color: rgb(33, 10, 236);
+    padding: 10px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    gap: 30px;
+    margin: 0;
+    padding:0;
+   
+
+}
+
+
+nav ul li{
+    justify-content: center;
+    align-items: center;
+}
+
+
+.landing{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+/*home */
+.home{
+    background-color: aqua;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.home h1{
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+
+.home p{
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+.btn button{
+    margin: 5px;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    background-color: black;
+    color: white;
+
+}
+
